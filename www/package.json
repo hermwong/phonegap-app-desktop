@@ -13,7 +13,7 @@
         "height": 600,
         "min_height": 600,
         "max_height": 600,
-        "toolbar": false,
+        "toolbar": true,
         "icon": "img/app-icons/icon.png",
         "resizable": false
     },
@@ -29,5 +29,5 @@
         "type":"ALv2",
         "url":"http://www.apache.org/licenses/LICENSE-2.0.html"
     }],
-    "manifestUrl": "https://raw.githubusercontent.com/phonegap/phonegap-app-desktop/master/package.json"
+    "manifestUrl": "https://raw.githubusercontent.com/hermwong/phonegap-app-desktop/master/package.json"
 }
